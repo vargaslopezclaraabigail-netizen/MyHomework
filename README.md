@@ -15,7 +15,7 @@
 <details>
 <summary>𝜗ৎ Ver lista de tareas 𝜗ৎ</summary> <br/>
 
-- [Tarea 1: Estructura HTML]([./1ra_pag_Abby/index.html](https://vargaslopezclaraabigail-netizen.github.io/MyHomework/1ra_pag_Abby.html)) <br/>
+- [Tarea 1: Estructura HTML](https://vargaslopezclaraabigail-netizen.github.io/MyHomework/1ra_pag_Abby.html) <br/>
 - [Tarea 2: Imágenes y multimedia](./tarea2/index.html) <br/>
 
 </details>
