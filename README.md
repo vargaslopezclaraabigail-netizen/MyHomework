@@ -2,13 +2,13 @@
 
 <img width="836" height="514" alt="descarga (5)" src="https://github.com/user-attachments/assets/f4b8c390-712c-410c-9d77-0c48f00b89e4" />
 
----
+--- <br>
 
 <img width="465" height="262" alt="Captura de pantalla 2026-05-31 145434" src="https://github.com/user-attachments/assets/497005e4-d2b9-42e1-b6c1-78c75e95f591" /> <br>
 *⋆. 𐙚 ̊ Estudiante en busca de conquistar el código. ⸜(｡˃ ᵕ ˂ )⸝♡* <br>
- "٠࣪⭑ La programación es mi nuevo accesorio favorito. ٠࣪⭑"
+ "٠࣪⭑ La programación es mi nuevo accesorio favorito. ٠࣪⭑" <br>
 
----
+--- <br>
 
 <h1> <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" />  *Mis Entregas* <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" /> </h1>
 
