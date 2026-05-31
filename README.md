@@ -13,10 +13,13 @@
 <h1> <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" />  Mis Entregas <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" /> </h1>
 
 <details>
-<summary>𝜗ৎ Ver lista de tareas 𝜗ৎ</summary> <br/>
+<summary>𝜗ৎ Ver lista de tareas 𝜗ৎ</summary>
+<br/>
 
-- [Tarea 1: Estructura HTML](https://vargaslopezclaraabigail-netizen.github.io/MyHomework/1ra_pag_Abby.html) <br/>
-- [Tarea 2: Imágenes y multimedia](./tarea2/index.html) <br/>
+<ul>
+  <li><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/1ra_pag_Abby.html">Tarea 1: Estructura HTML</a></li>
+  <li><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/tarea2/index.html">Tarea 2: Imágenes y multimedia</a></li>
+</ul>
 
 </details>
 
