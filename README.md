@@ -4,19 +4,19 @@
 
 ---
 
-### <img width="465" height="262" alt="Captura de pantalla 2026-05-31 145434" src="https://github.com/user-attachments/assets/497005e4-d2b9-42e1-b6c1-78c75e95f591" />
-*⋆. 𐙚 ̊ Estudiante en busca de conquistar el código. ⸜(｡˃ ᵕ ˂ )⸝♡*
-> "٠࣪⭑ La programación es mi nuevo accesorio favorito. ٠࣪⭑"
+<img width="465" height="262" alt="Captura de pantalla 2026-05-31 145434" src="https://github.com/user-attachments/assets/497005e4-d2b9-42e1-b6c1-78c75e95f591" /> <br>
+*⋆. 𐙚 ̊ Estudiante en busca de conquistar el código. ⸜(｡˃ ᵕ ˂ )⸝♡* <br>
+ "٠࣪⭑ La programación es mi nuevo accesorio favorito. ٠࣪⭑"
 
 ---
 
-### <h1> <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" />  *Mis Entregas* <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" /> </h1>
+<h1> <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" />  *Mis Entregas* <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" /> </h1>
 
-<details>
+<details> <br/>
 <summary>𝜗ৎ Ver lista de tareas 𝜗ৎ</summary>
 
-- [Tarea 1: Estructura HTML](./tarea1/index.html)
-- [Tarea 2: Imágenes y multimedia](./tarea2/index.html)
+- [Tarea 1: Estructura HTML](./tarea1/index.html) <br/>
+- [Tarea 2: Imágenes y multimedia](./tarea2/index.html) <br/>
 
 </details>
 
