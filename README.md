@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="836" height="514" alt="descarga (5)" src="https://github.com/user-attachments/assets/f4b8c390-712c-410c-9d77-0c48f00b89e4" />
+<img width="836" height="514" alt="descarga (5)" src="https://github.com/user-attachments/assets/f4b8c390-712c-410c-9d77-0c48f00b89e4" /> <br>
 
 --- <br>
 
@@ -10,7 +10,7 @@
 
 --- <br>
 
-<h1> <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" />  *Mis Entregas* <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" /> </h1>
+<h1> <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" />  Mis Entregas <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" /> </h1>
 
 <details>
 <summary>𝜗ৎ Ver lista de tareas 𝜗ৎ</summary> <br/>
@@ -23,4 +23,4 @@
 </div>
 
 ---
-*╰┈➤ Hecho por AbbyLop! ── .✦*
+*╰┈➤ Hecho por: AbbyLop! ── .✦*
