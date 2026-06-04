@@ -4,7 +4,7 @@
 
 --- <br>
 
-<img width="465" height="262" alt="Captura de pantalla 2026-05-31 145434" src="https://github.com/user-attachments/assets/497005e4-d2b9-42e1-b6c1-78c75e95f591" /> <br>
+<img width="265" height="62" alt="Captura de pantalla 2026-05-31 145434" src="https://github.com/user-attachments/assets/497005e4-d2b9-42e1-b6c1-78c75e95f591" /> <br>
 *⋆. 𐙚 ̊ Estudiante en busca de conquistar el código. ⸜(｡˃ ᵕ ˂ )⸝♡* <br>
  "٠࣪⭑ La programación es mi nuevo accesorio favorito. ٠࣪⭑" <br>
 
