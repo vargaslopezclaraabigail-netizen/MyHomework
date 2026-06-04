@@ -18,7 +18,9 @@
 
 <ul>
   <li><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/1ra_pag_Abby.html">Tarea 1: Estructura HTML</a></li>
-  <li><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/tarea2/index.html">Tarea 2: Imágenes y multimedia</a></li>
+ <li><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/tarea2/index.html">Tarea 2: Listas y líneas</a></li>
+  <li><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/tarea2/index.html">Tarea 3: Imágenes y multimedia</a></li>
+ <li><a href="https://github.com/vargaslopezclaraabigail-netizen/MyHomework/blob/main/hipervinculos.html">Tarea 4: Imágenes y multimedia</a></li>
 </ul>
 
 </details>
