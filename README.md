@@ -21,6 +21,7 @@
  <li><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/Listas_y_líneas.html">Tarea 2: Listas y líneas</a></li>
   <li><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/imagenes_multimedia1/index.html">Tarea 3: Imágenes y multimedia</a></li>
  <li><a href="https://github.com/vargaslopezclaraabigail-netizen/MyHomework/Hipervínculos">Tarea 4: Hipervinculos</a></li>
+  <li><a href="https://github.com/vargaslopezclaraabigail-netizen/MyHomework/Tablas">Tarea 5: Tablas</a></li>
 </ul>
 
 </details>
