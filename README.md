@@ -1,18 +1,12 @@
 <html>
-<center>
-
-<img width="836" height="514" alt="descarga (5)" src="https://github.com/user-attachments/assets/f4b8c390-712c-410c-9d77-0c48f00b89e4" /> <br>
-
---- <br>
-
-<img width="265" height="82" alt="Captura de pantalla 2026-05-31 145434" src="https://github.com/user-attachments/assets/497005e4-d2b9-42e1-b6c1-78c75e95f591" /> <br>
-<h6>*⋆. 𐙚 ̊ Estudiante en busca de conquistar el código. ⸜(｡˃ ᵕ ˂ )⸝♡*</h6> <br>
- <h6>"٠࣪⭑ La programación es mi nuevo accesorio favorito. ٠࣪⭑"</h6> <br>
-
---- <br>
-<center>
-<h1> <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" /> Mis Entregas <img width="130" height="30" alt="Captura de pantalla 2026-05-31 150447" src="https://github.com/user-attachments/assets/9d337f9f-6a7f-4233-bd6a-a6a0954c6566" /> </h1>
-</center>
+  <head>
+    <h1>Bienvenid@ a mi Portafolio! ₊˚⊹♡</h1>
+     <h3>࿔ ✮`,— 𝓐𝓑𝓑𝓨 .ᐟ.ᐟ </h3>
+   <h6>*⋆. 𐙚 ̊ Estudiante en busca de conquistar el código. ⸜(｡˃ ᵕ ˂ )⸝♡*</h6>
+   <h6>"٠࣪⭑ La programación es mi nuevo accesorio favorito. ٠࣪⭑"</h6>
+  </head>
+<body>
+    <h2> Mis Entregas ˖ ݁ ♬ ⋆. ˚𝄞 ｡ ⋆ ｡  ﾟ ☾  ﾟ｡ . ★ ⋆. ࿐࿔ </h2>
 
 <center><h3>𝜗ৎ Ver lista de tareas 𝜗ৎ</h3></center>
 <br>
@@ -25,8 +19,5 @@
   <li><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/Tablas/index.html">Tarea 5: Tablas</a></li>
 </ul>
 
-
-
----
-<h6>*╰┈➤ Hecho por: AbbyLop! ── .✦*</h6>
+<h6>╰┈➤ Hecho por: AbbyLop! ── .✦</h6>
 </html>
