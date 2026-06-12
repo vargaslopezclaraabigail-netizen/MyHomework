@@ -4,21 +4,19 @@
 </head>
 <body>
    <h1>Bienvenida a mi Portafolio</h1>
-          <font face="Cursive">
-               <center>
-   <h3>Sobre mí! nvn</h3>
-          </font>
-               </center>
-          <font face="Monospace">
-               <center>
-   <h5>
-        Nombre completo : Vargas López Clara Abigail (pero llámenme Abby :>)<br>
-        Vocacional : "3 - Estanislao Ranírez Ruiz" <br>
-        Estudiante de segundo semestre - grupo : 2IM3! <br>
-        Boleta : 2026031171 <br>
-   </h5>
-         </font>
-               </center>
+    <center>
+        <font face="Cursive"><h3>Sobre mí! nvn</h3></font>
+    </center>
+    <center>
+        <font face="Monospace">
+            <h5>
+                Nombre completo : Vargas López Clara Abigail (pero llámenme Abby :>)<br>
+                Vocacional : "3 - Estanislao Ranírez Ruiz" <br>
+                Estudiante de segundo semestre - grupo : 2IM3! <br>
+                Boleta : 2026031171 <br>
+            </h5>
+        </font>
+    </center>
 
 <table width="100%" border="0">
     <tr>
