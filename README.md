@@ -34,7 +34,7 @@
             <li><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/Continentes/index.html">Parte 2: Continentes</a></li>
           </ol>
 </ul>
-                <h4><a href="opinion/index.html">Mi opinión sobre este conocimiento <3</a></h4>
+                <h4><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/opinion_del_semestre/index.html">Mi opinión sobre este conocimiento <3</a></h4>
             </font>
         </td>
         <td width="70%" bgcolor="black" align="center">
