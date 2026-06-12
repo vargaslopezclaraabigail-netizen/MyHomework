@@ -4,19 +4,21 @@
 </head>
 <body>
    <h1>Bienvenida a mi Portafolio</h1>
-          <font face="Cedarville Cursive"><center>
+          <font face="Cursive">
+               <center>
    <h3>Sobre mí! nvn</h3>
-          </font></center>
-          <font face="Monospace"><center>
+          </font>
+               </center>
+          <font face="Monospace">
+               <center>
    <h5>
         Nombre completo : Vargas López Clara Abigail (pero llámenme Abby :>)<br>
         Vocacional : "3 - Estanislao Ranírez Ruiz" <br>
         Estudiante de segundo semestre - grupo : 2IM3! <br>
         Boleta : 2026031171 <br>
    </h5>
-         </font></center>
-               
-  <h3>Mis Entregas</h3>
+         </font>
+               </center>
 
 <table width="100%" border="0">
     <tr>
@@ -34,7 +36,6 @@
             <li><a href="https://vargaslopezclaraabigail-netizen.github.io/MyHomework/Continentes/index.html">Parte 2: Continentes</a></li>
           </ol>
 </ul>
-   </h5>
                 <h4><a href="opinion/index.html">Mi opinión sobre este conocimiento <3</a></h4>
             </font>
         </td>
